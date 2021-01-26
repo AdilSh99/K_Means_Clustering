@@ -1,17 +1,19 @@
 # K_Means_Clustering
 
-## Binder Badge to start the Binder environment:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GharbiRaouf/K_Means_Clustering/master)
+## Binder Badge, um die Binder-Umgebung zu starten:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdilSh99/K_Means_Clustering/HEAD)
 
-## How to perform the exercise?
-Click on the Launch Binder button, then a Binder window will open. A docker container with all necessary images will be created automatically. After a successful creation, a Jupyter window will be opened. Open K_Means_Clustering_Projekt.ipynb and then click on Run All at the top of Cell.
+## Wie wird die Übung durchgeführt?
+Klicken Sie auf die Schaltfläche "Launch Binder", dann wird ein Binder-Fenster geöffnet. Es wird automatisch ein Docker-Container mit allen notwendigen Images erstellt. Nach erfolgreicher Erstellung wird ein Jupyter-Fenster geöffnet. Öffnen Sie K_Means_Clustering_Projekt.ipynb und klicken Sie dann oben in Cell auf Run All.
 
-## Expected results ?
-For this project we will try to use K Means clustering to divide universities in the USA into two groups: Private and public.
+## Erwartete Ergebnisse ?
+In diesem Projekt werden wir versuchen, mit Hilfe von K-Mittel-Clustering die Universitäten in den USA in zwei Gruppen einzuteilen: Private und öffentliche.
 
-1. Reading data from College_Data.csv
-2. Generate some visualizations for a general overview.
-3. Explorative data analysis of College_Data.csv data with different graphic views.
-4. Data preparation.
-5. Creating of K Means clusters.
-6. Evaluation of the data.
+1. Einlesen der Daten aus College_Data.csv
+2. Erzeugen einiger Visualisierungen für einen allgemeinen Überblick.
+3. Explorative Datenanalyse von College_Data.csv-Daten mit verschiedenen grafischen Ansichten.
+4. Aufbereitung der Daten.
+5. Erstellen von K-Mittel-Clustern.
+6. Auswertung der Daten.
+
+
